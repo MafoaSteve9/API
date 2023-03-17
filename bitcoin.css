@@ -1,0 +1,12 @@
+h1 {
+    color: #272343;
+  }
+  
+  #price {
+    font-size: 2em;
+  }
+.container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
